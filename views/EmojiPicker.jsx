@@ -24,7 +24,7 @@ export const EmojiPickerView = ({ navigation }) => {
     <SafeAreaView style={styles.container}>
       <View style={styles.topContainer}>
         <Text style={styles.hint}>
-          Pick an emoji that will represent you in the chat
+          Pick an emoji that will represent you in the chat ----
         </Text>
         <View
           style={{
